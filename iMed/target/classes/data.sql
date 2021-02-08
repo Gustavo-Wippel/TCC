@@ -1,0 +1,1 @@
+insert into paciente values('Pegou', '123.123.432-32', 'gogo', 'olaAmigo@gmail.com');
